@@ -17,12 +17,6 @@
 3. Gelir ve giderlerinizi kategori ve miktar belirterek ekleyin.
 4. Bütçe limiti tanımlayın ve anlık uyarılarla kontrolü elinizde tutun.
 
-## 🛠️ Kullanılan Teknolojiler
-
-- React Native / Flutter
-- Firebase / Supabase
-- Wear OS / WatchOS
-- Chart.js / Recharts
 
 ## 👨‍💻 Geliştirici Ekip
 
@@ -31,7 +25,7 @@
 | Ayşenur Bayrakdar | [@aysenurbayrakdar](https://github.com/aysenurbayrakdar) |
 | Göktuğ Karaca | [@krcgoktug](https://github.com/krcgoktug) |
 | Salih Karakuş | [@salihkkus](https://github.com/salihkkus) |
-
+| Umut Ağbaba | [@agbabaumut](https://github.com/agbabaumut?tab=following) |
 
 ## 📱 Ekran Görüntüleri
 
